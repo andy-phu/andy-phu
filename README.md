@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andy Phu
 - 👀 I’m interested in software engineering opportunities
-- 🌱 I’m currently learning C++ Data Structures and Algorithms
 - 📫 You can email me @andyphu7601@gmail.com
 - 👨‍💼 LinkedIn: https://www.linkedin.com/in/andy-phu-4309a11b8/
 
